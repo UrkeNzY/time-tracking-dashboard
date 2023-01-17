@@ -72,7 +72,7 @@ const activities = [
       current: 21,
       previous: 23,
     },
-  }), 
+  }),
   (selfCare = {
     daily: {
       current: 0,
